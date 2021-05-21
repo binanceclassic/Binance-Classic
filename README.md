@@ -1,7 +1,7 @@
-# Binance-Classic
+# Binance-Classic - (BNC)
 
 
-Binance-Classic is an open-source platform that uses the distribution and decentralized nature of blockchain technology to facilitate more adoptions for the different asset classes in the Binance Smart Chain ecosystem.
+Binance Classic is an open-source platform that uses the distribution and decentralized nature of blockchain technology to facilitate more adoptions for the different asset classes in the Binance Smart Chain ecosystem.
 
 Website - http://binanceclassic.org/ 
 
