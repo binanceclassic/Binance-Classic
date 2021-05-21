@@ -13,12 +13,18 @@ The token is used for staking, which is necessary to participate in the POS cons
 The token is used to pay for transaction fees, gas and storage fees.
 The token is used in voting for on-chain governance of the protocol.
 
-Website - http://binanceclassic.org/
+Website - http://binanceclassic.org/ 
+
 Telegram - https://t.me/binanceclassic
+
 Twitter - https://twitter.com/Binance_Classic
+
 Github - https://github.com/binanceclassic
+
 Whitepaper - http://binanceclassic.org/binanceclassictoken_v.1.pdf
+
 Contract:  https://bscscan.com/token/0x60a597a2122fe19e8a8e24eecb135173ff433a34
+
 Buys/sells - https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x60a597a2122fe19e8a8e24eecb135173ff433a34
 
 
